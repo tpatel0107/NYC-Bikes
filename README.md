@@ -7,7 +7,9 @@ Show the number of bike trips for all riders and genders for each hour of each d
 Show the number of bike trips for each type of user and gender for each day of the week.
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 # Results:
+# Tableau link for visualization:
 https://public.tableau.com/app/profile/tarana.b.patel/viz/Module14-NYCBikes/Story1
+# Explanation of results: 
 Trip durations went down significantly as the hours went by, there was a peak and then a significant drop.
 Highest number of riders were men, women scored second highest and there were a small amout of unkowns.
 Count of bike riders were highest between the hours of 6am and 9am and then again in the evening hours between 4pm and 8pm.
