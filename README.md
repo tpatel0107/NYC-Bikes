@@ -10,6 +10,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 # Tableau link for visualization:
 https://public.tableau.com/app/profile/tarana.b.patel/viz/Module14-NYCBikes/Story1
 # Explanation of results: 
+![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/check%20out%20times%20by%20gender.PNG?raw=true)
 Trip durations went down significantly as the hours went by, there was a peak and then a significant drop.
 Highest number of riders were men, women scored second highest and there were a small amout of unkowns.
 Count of bike riders were highest between the hours of 6am and 9am and then again in the evening hours between 4pm and 8pm.
