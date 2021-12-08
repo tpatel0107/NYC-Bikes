@@ -15,3 +15,6 @@ Highest number of riders were men, women scored second highest and there were a 
 Count of bike riders were highest between the hours of 6am and 9am and then again in the evening hours between 4pm and 8pm.
 There were significantly higher male riders during the morning and evening hours in comparison to women or unkown.
 There were more subscribers than customers (male riders) during the week. 
+# Summary:
+More subscibers are using bike sharing program, there is significant percentage of male riders using the program consistently during the weekdays and weekends who are subscribers.
+I would provide two other visualizations which would be, Trips by Gender weekday by hour-with value and Most popular start and stop locations. This is important for investors to know when considering how many bikes to have avaliable and where to have the most bikes available to meet rider's demands. Also the time of the day and the gender that is most likely to utilize ride sharing. 
