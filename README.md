@@ -10,11 +10,15 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 # Tableau link for visualization:
 https://public.tableau.com/app/profile/tarana.b.patel/viz/Module14-NYCBikes/Story1
 # Explanation of results: 
-![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/check%20out%20times%20by%20gender.PNG?raw=true)
+![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/Check%20out%20times%20for%20users.PNG?raw=true)
 Trip durations went down significantly as the hours went by, there was a peak and then a significant drop.
+![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/check%20out%20times%20by%20gender.PNG?raw=true)
 Highest number of riders were men, women scored second highest and there were a small amout of unkowns.
+![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/Trips%20by%20weekday%20per%20hour.PNG?raw=true)
 Count of bike riders were highest between the hours of 6am and 9am and then again in the evening hours between 4pm and 8pm.
+![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).PNG?raw=true)
 There were significantly higher male riders during the morning and evening hours in comparison to women or unkown.
+![GitHub Graph](https://github.com/tpatel0107/NYC-Bikes/blob/main/User%20Trips%20by%20Gender%20(Weekday).PNG?raw=true)
 There were more subscribers than customers (male riders) during the week. 
 # Summary:
 More subscibers are using bike sharing program, there is significant percentage of male riders using the program consistently during the weekdays and weekends who are subscribers.
